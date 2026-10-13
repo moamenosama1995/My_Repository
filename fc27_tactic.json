@@ -1,0 +1,74 @@
+{
+  "tactic_owner": "Moamen Osama",
+  "github_profile": "https://github.com/moamenosama1995",
+  "tactic_name": "Moamen's Balanced 4-2-4 System",
+  "formation": "4-2-4",
+  "tactical_preset": {
+    "build_up_play": "Balanced",
+    "defensive_approach": "Balanced",
+    "tactical_rating": 57
+  },
+  "squad_roles": {
+    "goalkeeper": {
+      "player": "Courtois",
+      "role": "Goalkeeper ++",
+      "focus": "Balanced"
+    },
+    "defense": {
+      "left_back": {
+        "player": "Cucurella",
+        "role": "Falseback +",
+        "focus": "Defend"
+      },
+      "left_center_back": {
+        "player": "Álvaro Carrillo",
+        "role": "Ball-Playing Block +",
+        "focus": "Defend"
+      },
+      "right_center_back": {
+        "player": "Éder Militão",
+        "role": "Ball-Playing Block",
+        "focus": "Defend"
+      },
+      "right_back": {
+        "player": "Valverde",
+        "role": "Attacking Wingback +",
+        "focus": "Attack"
+      }
+    },
+    "midfield": {
+      "left_cm": {
+        "player": "Bellingham",
+        "role": "Box-To-Box ++",
+        "focus": "Ball-Winning"
+      },
+      "right_cm": {
+        "player": "Tchouaméni",
+        "role": "Holding +",
+        "focus": "Defend"
+      }
+    },
+    "attack": {
+      "left_wing": {
+        "player": "Vini Jr.",
+        "role": "Inside Forward ++",
+        "focus": "Attack"
+      },
+      "right_wing": {
+        "player": "Diomande",
+        "role": "Inside Forward +",
+        "focus": "Balanced"
+      },
+      "left_striker": {
+        "player": "Rodrygo",
+        "role": "False 9 +",
+        "focus": "Attack"
+      },
+      "right_striker": {
+        "player": "Mbappé",
+        "role": "Advanced Forward ++",
+        "focus": "Attack"
+      }
+    }
+  }
+}
