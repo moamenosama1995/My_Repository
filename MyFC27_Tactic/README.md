@@ -23,7 +23,7 @@ This custom tactical setup for FC 27 is uniquely designed and optimized by **[Mo
 ### 🛡️ Defense & GK
 * **Cucurella (LB):** `Falseback +` (Defend) - Inverts into the midfield during possession to assist build-up.
 * **Valverde (RB):** `Attacking Wingback +` (Attack) - Explodes forward down the right flank to overlap.
-* **Álvaro Carrillo & Éder Militão (CBs):** `Ball-Playing Block` (Defend) - Safe distribution from the back line.
+* **Álvaro Carreras & Éder Militão (CBs):** `Ball-Playing Block` (Defend) - Safe distribution from the back line.
 * **Courtois (GK):** `Goalkeeper ++` (Balanced) - Elite traditional shot-stopping.
 
 ---
