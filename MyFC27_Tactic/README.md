@@ -52,4 +52,16 @@ ChagMoeQusWD
 2. **High Stamina Demand:** The Box-to-Box midfielder requires high stamina stats to maintain influence all game.
 
 ---
-© 2026 Moamen Osama. Authorized for community usage with proper attribution to the author's GitHub profile.
+# 🎮 Moamen's Balanced 4-2-4 Custom Tactic - FC 27
+
+[![License: MIT](https://shields.io)](LICENSE)
+
+This custom tactical setup for FC 27 is designed and optimized by **Moamen Osama**. For the complete documentation, tactical overview, in-game code (`ChagMoeQusWD`), player roles, pros, and cons, please refer to the referenced repository.
+
+## 📜 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details. Authorized for community usage with proper attribution to the author's GitHub profile.
+
+---
+© 2026 Moamen Osama.
+
