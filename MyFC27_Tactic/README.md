@@ -6,9 +6,9 @@
 
 ## 🔗 Official Squad Links & Direct Integration
 
-* **Live Squad Builder Link on FUT.GG:** [Click here to view the live squad configuration](https://fut.gg)
+* **Live Squad Builder Link on FUT.GG:** [Click here to view the live squad configuration](https://www.fut.gg/27/squad-builder/2ac6dbe5-fda6-4ac4-85f3-6fcce1cdd688/)
 * **Squad Share Code:** `yok8j2CA86eD`
-* **Official Repository:** [moamenosama1995/My_Repository](https://github.com/moamenosama1995/My_Repository)
+* **Official Source Repository:** [moamenosama1995/My_Repository](https://github.com)
 
 ---
 
