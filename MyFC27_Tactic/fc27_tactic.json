@@ -1,74 +1,74 @@
 {
-  "tactic_owner": "Moamen Osama",
-  "github_profile": "https://github.com/moamenosama1995",
-  "tactic_name": "Moamen's Balanced 4-2-4 System",
-  "formation": "4-2-4",
-  "tactical_preset": {
-    "build_up_play": "Balanced",
-    "defensive_approach": "Balanced",
-    "tactical_rating": 57
-  },
-  "squad_roles": {
+  "squad_name": "Moamen Osama Ultimate Real Madrid (4-3-1-2)",
+  "creator": "moamenosama1995",
+  "repository_url": "https://github.com/moamenosama1995/My_Repository",
+  "formation": "4-3-1-2",
+  "tactical_style": "Counter",
+  "build_up_play": "Balanced",
+  "team_rating_or_width": 60,
+  "placeholder_share_code": "yok8j2CA86eD",
+  "fut_gg_link": "https://www.fut.gg/27/squad-builder/2ac6dbe5-fda6-4ac4-85f3-6fcce1cdd688/",
+  "lineup": {
+    "attack": [
+      {
+        "player_name": "Vini Jr.",
+        "position": "ST",
+        "tactical_role": "Advanced Forward ++"
+      },
+      {
+        "player_name": "Mbappé",
+        "position": "ST",
+        "tactical_role": "Advanced Forward ++"
+      },
+      {
+        "player_name": "Rodrygo",
+        "position": "CAM",
+        "tactical_role": "Shadow Striker"
+      }
+    ],
+    "midfield": [
+      {
+        "player_name": "Bellingham",
+        "position": "CM",
+        "tactical_role": "Box-To-Box ++"
+      },
+      {
+        "player_name": "Valverde",
+        "position": "CM",
+        "tactical_role": "Box-To-Box ++"
+      },
+      {
+        "player_name": "Camavinga",
+        "position": "CM",
+        "tactical_role": "Box-To-Box"
+      }
+    ],
+    "defense": [
+      {
+        "player_name": "Marc Cucurella",
+        "position": "LB",
+        "tactical_role": "Falseback (Defend)"
+      },
+      {
+        "player_name": "Álvaro Carreras",
+        "position": "CB",
+        "tactical_role": "Defender (Defend)"
+      },
+      {
+        "player_name": "Aurélien Tchouaméni",
+        "position": "CB",
+        "tactical_role": "Defender (Defend)"
+      },
+      {
+        "player_name": "Denzel Dumfries",
+        "position": "RB",
+        "tactical_role": "Attacking Wingback + (Support)"
+      }
+    ],
     "goalkeeper": {
-      "player": "Courtois",
-      "role": "Goalkeeper ++",
-      "focus": "Balanced"
-    },
-    "defense": {
-      "left_back": {
-        "player": "Cucurella",
-        "role": "Falseback +",
-        "focus": "Defend"
-      },
-      "left_center_back": {
-        "player": "Álvaro Carrillo",
-        "role": "Ball-Playing Block +",
-        "focus": "Defend"
-      },
-      "right_center_back": {
-        "player": "Éder Militão",
-        "role": "Ball-Playing Block",
-        "focus": "Defend"
-      },
-      "right_back": {
-        "player": "Valverde",
-        "role": "Attacking Wingback +",
-        "focus": "Attack"
-      }
-    },
-    "midfield": {
-      "left_cm": {
-        "player": "Bellingham",
-        "role": "Box-To-Box ++",
-        "focus": "Ball-Winning"
-      },
-      "right_cm": {
-        "player": "Tchouaméni",
-        "role": "Holding +",
-        "focus": "Defend"
-      }
-    },
-    "attack": {
-      "left_wing": {
-        "player": "Vini Jr.",
-        "role": "Inside Forward ++",
-        "focus": "Attack"
-      },
-      "right_wing": {
-        "player": "Diomande",
-        "role": "Inside Forward +",
-        "focus": "Balanced"
-      },
-      "left_striker": {
-        "player": "Rodrygo",
-        "role": "False 9 +",
-        "focus": "Attack"
-      },
-      "right_striker": {
-        "player": "Mbappé",
-        "role": "Advanced Forward ++",
-        "focus": "Attack"
-      }
+      "player_name": "Thibaut Courtois",
+      "position": "GK",
+      "tactical_role": "Goalkeeper ++"
     }
   }
 }
